@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "item": "Chicken Mo:mo",
+      "description": "Chicken dumpling steamed and served with momo achar and hot sauce.",
+      "category": "Non-veg",
+      "type": "Appetizer",
+      "thumbnail": ""
+    },
+    {
+      "id": "2",
+      "item": "Aloo Tama",
+      "description": "A Savory Nepali classic Bamboo shoots, black eyes peasant potato blend for a perfect taste bud.",
+      "category": "Veg",
+      "type": "Entree",
+      "thumbnail": ""
+    },
+    {
+      "id": "3",
+      "item": "Palak Paneer",
+      "description": "Fresh homemade cottage cheese cooked in delicately spiced gravy made from fresh spinach.",
+      "category": "Veg",
+      "type": "Entree",
+      "thumbnail": ""
+    },
+    {
+      "id": "4",
+      "item": "Aloo Sandheko",
+      "description": "Boiled potato mixed with garlic ,ginger, coriander chop and blended spices.",
+      "category": "Veg",
+      "type": "Appetizer",
+      "thumbnail": ""
+    },
+    {
+      "id": "5",
+      "item": "Bandel Tareko",
+      "description": "Boiled wild boar meat cut into slice and sautéed with diced onion, tomato, capsicum & hot sauce",
+      "category": "Non-veg",
+      "type": "Appetizer",
+      "thumbnail": ""
+    },
+    {
+      "id": "6",
+      "item": "Lamb Chops",
+      "description": "Juicy lamb rack marinated with chef special spiced and cooked in tandoor oven.",
+      "category": "Non-veg",
+      "type": "Entree",
+      "thumbnail": ""
+    },
+    {
+      "id": "7",
+      "item": "Bhuttan",
+      "description": "Boiled intestine of goat fried in oil with chopped onions, green chilly, coriander chop & spices.",
+      "category": "Non-veg",
+      "type": "Appetizer",
+      "thumbnail": ""
+    },
+    {
+      "id": "8",
+      "item": "Chicken Sekuwa",
+      "description": "Sekuwa sautéed in butter with vegetables & Bajeko masala and served on sizzler plate.",
+      "category": "Non-veg",
+      "type": "Entree",
+      "thumbnail": ""
+    },
+    {
+      "id": "9",
+      "item": "Jhaneko Sekuwa Mutton Set",
+      "description": "Mutton Sekuwa sautéed in butter with vegetables & Bajeko masala and served on sizzler plate. Khaja set will include soup, beaten rice, aloo tareko, bhatmas sandheko, achar and side salad.",
+      "category": "Non-veg",
+      "type": "Entree",
+      "thumbnail": ""
+    },
+    {
+      "id": "10",
+      "item": "Hyakula Tareko",
+      "description": "Goat’s sternum cartilage shallow fried in a pan and sautéed with diced onion, capsicum ,tomato, dry chilly & hot chilly sauce.",
+      "category": "Non-veg",
+      "type": "Entree",
+      "thumbnail": ""
+    }
+  ]
+}

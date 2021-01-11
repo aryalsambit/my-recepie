@@ -1,0 +1,28 @@
+.Modal{
+    position: absolute;
+    top: 67px;
+    height: 100vh;
+    background-color: darkgray;
+    width: 75vw;
+    text-align: left;
+    box-shadow: 1px 0 0 0 lightgrey;
+}
+
+.Modal ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.Modal ul li{
+    padding: 10px 20px;
+
+    border-bottom: 1px solid #f4f4f4;
+}
+
+.Modal ul li a{
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}

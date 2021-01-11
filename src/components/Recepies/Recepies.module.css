@@ -1,0 +1,17 @@
+.Recepies {
+    display: flex;
+    justify-content: space-between;
+    max-width: 90vw;
+    flex-flow: wrap;
+    margin: 100px auto;
+}
+
+@media screen and (min-width: 768px){
+    .Recepies {
+        display: flex;
+        justify-content: space-between;
+        max-width: 1200px;
+        flex-flow: wrap;
+        margin: 200px auto;
+    }
+}

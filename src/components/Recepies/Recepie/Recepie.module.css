@@ -1,0 +1,20 @@
+.Recepie{
+    box-shadow: 2px 2px 2px 2px grey;
+    min-width: 320px;
+    margin: 20px auto;
+}
+.Recepie .Thumbnail{
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+@media screen and (min-width: 768px){
+    .Recepie{
+        margin: 20px;
+    }
+}
+

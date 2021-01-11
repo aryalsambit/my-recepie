@@ -1,0 +1,64 @@
+.Menu {
+  max-width: 1200px;
+  margin: 70px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+@media screen and (min-width: 768px){
+    .Menu {
+        margin: 100px auto;
+    }
+}
+
+.Title {
+  padding: 25px;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 20px;
+  width: 100%;
+}
+@media screen and (min-width: 768px){
+    .Title {
+        font-size: 3em;
+    }
+}
+
+.SubHead {
+  width: 100%;
+  text-align: left;
+  padding-left: 25px;
+  font-size: 1.6em;
+  margin-bottom: 0;
+}
+@media screen and (min-width: 768px){
+    .SubHead {
+        font-size: 2em;
+    }
+}
+
+.Menu > div {
+    width: 100%;
+    text-align: left;
+    display: flex;
+    vertical-align: text-bottom;
+    padding: 15px 25px;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 768px){
+    .Menu > div {
+        width: 50%;
+    }
+}
+.Image {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+  align-self: flex-start;
+}
+
+.Menu h2,
+.Menu p {
+  padding: 0;
+  margin: 0;
+}

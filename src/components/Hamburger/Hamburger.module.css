@@ -1,0 +1,29 @@
+.Hamburger {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  background-color: gainsboro;
+}
+
+.Hamburger .Logo {
+  float: left;
+  padding: 20px;
+  width: 2rem;
+}
+.Hamburger .Icon {
+    float: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.Hamburger .Icon > div{
+    padding: 0;
+    margin: 0;
+    height: 6px;
+    padding-right: 10px;
+}
+@media screen and (min-width: 768px) {
+  .Hamburger {
+    display: none;
+  }
+}
